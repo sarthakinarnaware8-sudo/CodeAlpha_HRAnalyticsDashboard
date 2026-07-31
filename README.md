@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="HRDashboard" src="https://github.com/user-attachments/assets/afff03ba-d49a-47f5-a064-bf7a1f3d625a" />
+
 # HR Analytics Dashboard
 
 ## Project Overview
@@ -53,6 +55,8 @@ Employee dataset containing 75 employee records.
 - emplpyeedata.csv.xlsx
 - HRDashboard.png
 
+## Dashboard Preview
+<img width="1920" height="1080" alt="HRDashboard" src="https://github.com/user-attachments/assets/afff03ba-d49a-47f5-a064-bf7a1f3d625a" />
 
 ## Author
 
