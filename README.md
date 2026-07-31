@@ -54,7 +54,8 @@ Employee dataset containing 75 employee records.
 - HRDashboard.png
 
 ## Dashboard Preview
-<img width="1920" height="1080" alt="HRDashboard" src="https://github.com/user-attachments/assets/afff03ba-d49a-47f5-a064-bf7a1f3d625a" />
+<img width="1920" height="1080" alt="HRDashboard(2)" src="https://github.com/user-attachments/assets/07101987-4d4c-4970-9801-1e76001c165a" />
+
 
 ## Author
 
